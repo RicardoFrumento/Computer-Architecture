@@ -5,3 +5,5 @@ Single cycle datapath that implements the following instructions
 - Memory: lw, sw
 - Branch: beq
 - J-type: jal
+
+The above codes are for reference and should not be used as part of a solution for a school project.
